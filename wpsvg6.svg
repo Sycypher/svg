@@ -1,0 +1,12 @@
+
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" style="background-color:#3c3836">
+  <path fill="#fb4934" d="M0 480h1920v20H0z"/>
+  <path fill="#b16286" d="M0 500h1920v20H0z"/>
+  <path fill="#458588" d="M0 520h1920v20H0z"/>
+  <path fill="#689d6a" d="M0 540h1920v20H0z"/>
+  <path fill="#d79921" d="M0 560h1920v20H0z"/>
+  <path fill="#fe8019" d="M0 580h1920v20H0z"/>
+  <path d="M1450 479L1510 540L1450 601L1920 601L1920 479" fill="#3c3836" />
+  <path transform="translate(600 )" d="M800 660 L915 545 L955 585 L880 660 M1120 660 L880 420 L800 420 L1040 660" fill="#ebdbb2"/>
+
+</svg>
